@@ -37,12 +37,13 @@
 * `pkg install python`
 * `git clone https://github.com/mishakorzik/py-ddoser`
 * `pip3 install requests`
-* `pip3 install `
+* `pip3 install fake_headers`
+* `pip3 install colorama`
 
 <details id="missing-code-coverage">
   <summary>Need help with installation</summary>
 
-**1. If you have problems installing the requests library: python3 -m pip install requests<br>**
+**1. If you have problems installing the requests library: python3 -m pip install <package name><br>**
 **2. If modules cannot be downloaded: replace pkg with apt <br>**
 **3. If you do not know how to delete the repository: rm -rf py-ddoser <br>**
 

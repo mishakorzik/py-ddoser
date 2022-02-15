@@ -100,10 +100,10 @@ If the tool fails, follow these steps:
 #### here you can see a screenshot of Email-Spammer
 <br>
 <p align="center">
-<img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221028.jpg"/> 
-  <img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221205.jpg"/> 
-  <img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221358.jpg"/> 
-<img width="49.1%" src="https://raw.githubusercontent.com/mishakorzik/Email-Spammer/main/src/IMG_20211018_221605.jpg"/>
+<img width="49.1%" src=""/> 
+  <img width="49.1%" src=""/> 
+  <img width="49.1%" src=""/> 
+<img width="49.1%" src=""/>
 </p>
 
 ## Find Me 

@@ -98,7 +98,7 @@ If the tool fails, follow these steps:
 
 ## Screenshot
 
-#### here you can see a screenshot of Email-Spammer
+#### here you can see a screenshot of py-ddoser
 <br>
 <p align="center">
 <img width="47.5%" src="https://raw.githubusercontent.com/mishakorzik/py-ddoser/main/IMG_20220215_224040.jpg"/> 

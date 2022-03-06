@@ -39,6 +39,7 @@
 * `pip3 install requests`
 * `pip3 install fake_headers`
 * `pip3 install colorama`
+* `pip3 install click`
 
 <details id="missing-code-coverage">
   <summary>Need help with installation</summary>

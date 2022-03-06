@@ -35,7 +35,7 @@ def logo():
 	print('')
 
 def check_prox(array, url):
-	ip = r.post("http://ip.beget.ru/").text
+	ip = r.post("http://myip4.000webhostapp.com").text
 	for prox in array:
 		thread_list = []
 		t = threading.Thread (target=check, args=(ip, prox, url))
@@ -44,7 +44,7 @@ def check_prox(array, url):
 
 def check(ip, prox, url):
 	try:
-		ipx = r.get("http://ip.beget.ru/", proxies={'http': "http://{}".format(prox), 'https':"http://{}".format(prox)}).text
+		ipx = r.get("http://myip4.000webhostapp.com", proxies={'http': "http://{}".format(prox), 'https':"http://{}".format(prox)}).text
 	except:
 		ipx = ip
 	if ip != ipx:

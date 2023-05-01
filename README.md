@@ -58,6 +58,10 @@
 * `cd py-ddoser`
 * `python3 ddos.py`
 
+### Custom proxy
+
+* `python3 ddos.py --proxy file.txt`
+
 ------
 
 #### If there are problems then look down there will be if failed to download.

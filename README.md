@@ -27,6 +27,7 @@
 - [x] Quickly and clearly
 - [x] custom proxy country
 - [x] Functionality
+- [ ] find botnet and use
 
 ----
 ## Install

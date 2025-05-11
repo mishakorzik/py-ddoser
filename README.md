@@ -21,8 +21,8 @@
 
 #### Features
 - [x] Very fast ddos
-- [x] Quickly and clearly
-- [x] Support http/2 ddos
+- [x] With proxies
+- [x] Quickly and cleary
 - [x] Functional
 
 ----

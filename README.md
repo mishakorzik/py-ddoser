@@ -20,14 +20,10 @@
 ---
 
 #### Features
-- [x] Fast ddos
-- [x] Free proxy
-- [x] Supported on python3
-- [x] Supported other systems
+- [x] Very fast ddos
 - [x] Quickly and clearly
-- [x] custom proxy country
-- [x] Functionality
-- [ ] find botnet and use
+- [x] Support http/2 ddos
+- [x] Functional
 
 ----
 ## Install
@@ -38,10 +34,8 @@
 * `pkg install python`
 * `git clone https://github.com/mishakorzik/py-ddoser`
 * `pip3 install requests`
-* `pip3 install fake_headers`
-* `pip3 install colorama`
-* `pip3 install click`
-
+* `pip3 install httpx2`
+* 
 <details id="missing-code-coverage">
   <summary>Need help with installation</summary>
 
@@ -58,10 +52,6 @@
 
 * `cd py-ddoser`
 * `python3 ddos.py`
-
-### Custom proxy
-
-* `python3 ddos.py --proxy file.txt`
 
 ------
 

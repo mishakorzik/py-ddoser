@@ -34,7 +34,7 @@
 * `pkg install python`
 * `git clone https://github.com/mishakorzik/py-ddoser`
 * `pip3 install requests`
-* `pip3 install httpx2`
+* `pip3 install httpx`
 * 
 <details id="missing-code-coverage">
   <summary>Need help with installation</summary>
